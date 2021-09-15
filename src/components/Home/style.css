@@ -1,0 +1,8 @@
+.check {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-evenly;
+  align-content: center;
+}
